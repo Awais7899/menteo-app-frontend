@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186601950067",
+    "project_id": "menteo-2a230",
+    "storage_bucket": "menteo-2a230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186601950067:android:0331366280a44451f1d306",
+        "android_client_info": {
+          "package_name": "com.hybreathe.menteo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCDUd3QUS2c25_6suENB5bIUNvaaTkI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
